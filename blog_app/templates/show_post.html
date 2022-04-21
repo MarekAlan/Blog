@@ -1,0 +1,9 @@
+{%  extends 'base.html' %}
+{% block sikorka %}
+
+<ul>
+    {% for item in posts %}
+    <li>{{ item.text }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d634135-ea39-46d2-b32b-d865d43b908d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="286nyNcSkPDStYGLJoRfg95dRYs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d634135-ea39-46d2-b32b-d865d43b908d" name="Changes" comment="" />
+      <created>1650546156983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650546156983</updated>
+      <workItem from="1650546159862" duration="3000" />
+      <workItem from="1650546457812" duration="31000" />
+      <workItem from="1650547462909" duration="123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tdd_test_password_upper_letter.coverage" NAME="pytest for tdd.test_password_upper_letter Coverage Results" MODIFIED="1648133879048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tests_test_blog_list.coverage" NAME="pytest for tests.test_blog_list Coverage Results" MODIFIED="1648118560925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog_app" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tests_test_register.coverage" NAME="pytest for tests.test_register Coverage Results" MODIFIED="1648122682904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog_app" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$tdd.coverage" NAME="tdd Coverage Results" MODIFIED="1648132321592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tests_test_check_index.coverage" NAME="pytest for tests.test_check_index Coverage Results" MODIFIED="1648114767004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog_app" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tdd_test_password_lower_letter.coverage" NAME="pytest for tdd.test_password_lower_letter Coverage Results" MODIFIED="1648133948706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tdd_test_password_lenght.coverage" NAME="pytest for tdd.test_password_lenght Coverage Results" MODIFIED="1648131921794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tdd_test_password_is_digit.coverage" NAME="pytest for tdd.test_password_is_digit Coverage Results" MODIFIED="1648134399727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_in_zabawa_z_testami_py.coverage" NAME="pytest in zabawa_z_testami.py Coverage Results" MODIFIED="1648050906722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tests_test_add_blog.coverage" NAME="pytest for tests.test_add_blog Coverage Results" MODIFIED="1648122151165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog_app" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$zabawa_z_testami.coverage" NAME="zabawa_z_testami Coverage Results" MODIFIED="1648045582591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tests_test_register_user.coverage" NAME="pytest for tests.test_register_user Coverage Results" MODIFIED="1648123071675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog_app" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tdd_check_password_test_prime.coverage" NAME="pytest for tdd_check_password.test_prime Coverage Results" MODIFIED="1648135816600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tests_test_user_list.coverage" NAME="pytest for tests.test_user_list Coverage Results" MODIFIED="1648117859833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog_app" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_zabawa_z_testami_test_check_gender.coverage" NAME="pytest for zabawa_z_testami.test_check_gender Coverage Results" MODIFIED="1648046128618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tests_test_post_list.coverage" NAME="pytest for tests.test_post_list Coverage Results" MODIFIED="1648119059727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog_app" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_in_tests_py.coverage" NAME="pytest in tests.py Coverage Results" MODIFIED="1648127729497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog_app" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tests_test_add_post_with_blog.coverage" NAME="pytest for tests.test_add_post_with_blog Coverage Results" MODIFIED="1648127681273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog_app" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1648117654580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog_app" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$manage.coverage" NAME="manage Coverage Results" MODIFIED="1648637925784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_zabawa_z_testami_test_check_for_0_3.coverage" NAME="pytest for zabawa_z_testami.test_check_for_0_3 Coverage Results" MODIFIED="1648045244022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tdd_test_password_length.coverage" NAME="pytest for tdd.test_password_length Coverage Results" MODIFIED="1648133849468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tdd_test_price.coverage" NAME="pytest for tdd.test_price Coverage Results" MODIFIED="1648131405575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_in_tdd_check_password_py.coverage" NAME="pytest in tdd_check_password.py Coverage Results" MODIFIED="1650546370494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tdd_test_password_is_numeric.coverage" NAME="pytest for tdd.test_password_is_numeric Coverage Results" MODIFIED="1648132574095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tdd_prime_test_prime.coverage" NAME="pytest for tdd_prime.test_prime Coverage Results" MODIFIED="1648135855645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_in_tdd_py.coverage" NAME="pytest in tdd.py Coverage Results" MODIFIED="1648132380436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_zabawa_z_testami_test_check_for_0_0.coverage" NAME="pytest for zabawa_z_testami.test_check_for_0_0 Coverage Results" MODIFIED="1648045254465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tdd_check_password_test_check_password.coverage" NAME="pytest for tdd_check_password.test_check_password Coverage Results" MODIFIED="1648135879873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Blog_WAR_PYT_S_28$pytest_for_tests_test_ala_ma_kota.coverage" NAME="pytest for tests.test_ala_ma_kota Coverage Results" MODIFIED="1648114633633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog_app" />
+  </component>
+</project>

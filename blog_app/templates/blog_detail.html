@@ -1,0 +1,20 @@
+{%  extends 'base.html' %}
+{% block sikorka %}
+<div>
+    <p>Treść bloga: {{ blog }}</p>
+    <p>Autor: {{ blog.author.username }}</p>
+    {% for post in blog.post_set.all %}
+    <p>
+    <div style="border: solid; border-width: 1px;">
+        {{ post.text }}
+        <h5>{{ post.creation_date }}</h5>
+    </div>
+    </p>
+    {% endfor %}
+    <form method="POST">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit">
+    </form>
+</div>
+{% endblock %}

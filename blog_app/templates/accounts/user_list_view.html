@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block sikorka %}
+<ul>
+    {% for user in object_list %}
+    <li><a href="{% url 'user_perm' user.id %}"> {{ user.username }}</a></li>
+    {% endfor %}
+</ul>
+
+
+{% endblock %}

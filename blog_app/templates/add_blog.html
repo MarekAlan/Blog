@@ -1,0 +1,9 @@
+{%  extends 'base.html' %}
+{% block sikorka %}
+<form method="POST">
+    {% csrf_token %}
+    <input type="text" placeholder="name" name="name">
+    <input type="text" placeholder="topic" name="topic">
+    <button type="submit">Add Blog</button>
+</form>
+{%  endblock %}

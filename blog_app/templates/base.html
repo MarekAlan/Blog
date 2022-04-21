@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Cześć</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/base.css' %}">
+</head>
+<body>
+<p>Cześć i czołem. Ja bloger.</p>
+
+<div class="topnav">
+    <a href="{% url 'index' %}">Index</a>
+    <a href="{%  url 'index2' %}">Druga</a>
+    <a href="{% url 'add_blog' %}">Dodaj blog</a>
+    <a href="{%  url 'add_post' %}">Dodaj post</a>
+    <a href="{%  url 'show_blogs' %}">Blogi</a>
+    <a href="{%  url 'show_post' %}">Posty</a>
+    <a href="{%  url 'add_comment' %}">Dodaj komentarz</a>
+    <a href="{%  url 'gen_post_create_view' %}">Dodaj post generycznie</a>
+    <a href="{% url 'userlist' %}">Użytkownicy</a>
+    {% if user.is_authenticated %}      <!-- aby zalogowana osoba nie widziala login i register -->
+    <a href="{%  url 'logout' %}">Logout</a>
+    {% else %}
+    <a href="{%  url 'login' %}">Login</a>
+    <a href="{%  url 'register' %}">Register</a>
+    {% endif %}
+
+</div>
+{% block sikorka %}
+
+Strona główna
+
+{% endblock %}
+<p><img src="{% static 'yak.jpeg' %}"> {{ date }}</p>
+{{ user }}     <!-- w settings.py jest context_processor który trzyma user'a - więc można go wywołać-->
+</body>
+</html>

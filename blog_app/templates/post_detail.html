@@ -1,0 +1,11 @@
+{%  extends 'base.html' %}
+{% block sikorka %}
+<p></p>
+Treść posta:
+<div style="border: solid; border-width: 1px;">
+    <p>{{ post.text }}</p>
+</div>
+<h5>{{ post.creation_date }}</h5>
+
+</p>
+{% endblock %}
